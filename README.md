@@ -23,7 +23,7 @@ We sources 3 versions of COVID-19 from the following sources:
   * Disadvantages: 
     * In wide format with columns for every date, which means that it must be transformed to long format for most analyses
 
-3. COVID Tracking Project: 
+3. COVID Tracking Project: https://covidtracking.com/data
 
   **We recommend using this source for state-level COVID analyses**
 
