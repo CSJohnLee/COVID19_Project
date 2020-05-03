@@ -26,7 +26,7 @@ Files created individually for EDA of COVID19 data.
 ## Miscellaneous
 * miscellaneous: files needed for geopandas package and animation plots created from EDA
 
-## Data Sources Findings
+## Data Quality Assessment
 
 We sources 3 versions of COVID-19 from the following sources: 
 
