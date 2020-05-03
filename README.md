@@ -1,5 +1,8 @@
 # COVID19_Project
 
+## Final Slide-Deck of Results
+ * COVID19_Project | Spring 2020  
+
 ## Individual Jupyter Notebook EDA Files
 Files created individually for EDA of COVID19 data.
  * covid_eda_augsburger-v2.ipynb
