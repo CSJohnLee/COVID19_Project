@@ -51,3 +51,13 @@ We sources 3 versions of COVID-19 from the following sources:
     * Clean FIPS codes can be merged on other data.
   * Disadvantages:
     * Only at the state level 
+    
+## How to use this repo
+
+* If you are interested in sourcing the most up-to-date data yourself or in our documentation of different sources, you can use our sourcing scripts in the data_sourcing folder (see above for guidelines on which to use)
+* If you are interested in using the COVID-19 data we downloaded and processed, you can use the files in the the Data_pkl/covid19 folder
+* If you are interested in our exploratory findings, you can look through our Jupyter Notebook EDA files
+* Please fork/use this repo, and start an issue to collaborate with us! We are always looking to improve and would like to hear from you.
+
+
+
