@@ -1,5 +1,12 @@
 # COVID19_Project
 
+## Individual Jupyter Notebook EDA Files
+Files created individually for EDA of COVID19 data.
+ * covid_eda_augsburger-v2.ipynb
+ * covid_eda_lee.ipynb
+ * covid_eda_nusaputra.ipynb
+ * covid_eda_sawasaki.ipynb
+
 ## Data Sources
 
 We sources 3 versions of COVID-19 from the following sources: 
