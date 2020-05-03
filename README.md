@@ -7,7 +7,7 @@
 * If you are interested in our exploratory findings, you can look through our Jupyter Notebook EDA files
 * Please fork/use this repo, and start an issue to collaborate with us! We are always looking to improve and would like to hear from you.
 
-## Final Slide-Deck of Results
+## Slide-Deck of Results
  * COVID19_Project | Spring 2020  
 
 ## Individual Jupyter Notebook EDA Files
