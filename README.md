@@ -10,7 +10,16 @@ Files created individually for EDA of COVID19 data.
  * covid_eda_nusaputra.ipynb
  * covid_eda_sawasaki.ipynb
 
-## Data Sources
+## Data
+* data_pkl: data sets that were pickled
+* data_processing: jupyter notebook files of processing raw data to usable datasets.
+* data_raw: raw dataset from sources that were saved
+* data_sourcing: data cleaning raw data
+
+## Miscellaneous
+* miscellaneous: files needed for geopandas package and animation plots created from EDA
+
+## Data Sources Findings
 
 We sources 3 versions of COVID-19 from the following sources: 
 
