@@ -8,7 +8,8 @@
 * Please fork/use this repo, and start an issue to collaborate with us! We are always looking to improve and would like to hear from you.
 
 ## Slide-Deck of Results
- * COVID19_Project | Spring 2020  
+ * COVID19_Project_Spring2020.pptx  
+   Link to Google Slides: https://docs.google.com/presentation/d/1z9M6WjM0kyZV0tBjC2mafpYZLWmoRZ9VFko0kUA46zE/edit?usp=sharing
 
 ## Individual Jupyter Notebook EDA Files
 Files created individually for EDA of COVID19 data.
